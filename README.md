@@ -112,7 +112,7 @@ Ikuti langkah-langkah berikut untuk melakukan setup BumilFit pada lingkungan lok
 
 ## Prasyarat
 
-- `[Sesuaikan: Node.js versi yang digunakan]`
+- `Node.js: v18+ atau v20+`
 - Git
 
 ## Langkah Setup
