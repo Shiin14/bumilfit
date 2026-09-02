@@ -97,9 +97,9 @@ Paket berlangganan terdiri dari:
 
 | Kategori | Teknologi / Library / Framework | Keterangan / Fungsi |
 | :--- | :--- | :--- |
-| **Frontend Framework** | React.js | Membangun antarmuka dan komponen aplikasi |
+| **Frontend Framework** | React, TypeScript, Vite, Tailwind CSS, Lucide Icons, Canvas Confetti | Membangun antarmuka dan komponen aplikasi |
 | **Styling & UI Components** | Tailwind CSS | Membuat tampilan yang responsif |
-| **Backend & API** | Express | Menangani RESTful API dan logic aplikasi |
+| **Backend & API** | Node.js, Express.js, TypeScript, Prisma ORM, Neon PostgreSQL, JWT, BCrypt, Google Gemini API | Menangani RESTful API dan logic aplikasi |
 | **Database** | Neon | Menyimpan data log harian dan jadwal menggunakan PostgreSQL Cloud |
 | **Library Tambahan** | `[Sesuaikan dengan library yang digunakan]` | `[Sesuaikan dengan fungsi library]` |
 | **Deployment / Hosting** | Vercel / Render | Platform untuk melakukan hosting aplikasi |
@@ -156,7 +156,17 @@ npx prisma db push
 
 ### 6. Jalankan Aplikasi
 
+#### Backend (Development Server):
+```bash
+cd backend
 npm run dev
+```
+
+#### Frontend (Development Server):
+```bash
+cd frontend
+npm run dev
+```
 
 Kemudian buka aplikasi melalui browser:
 http://localhost:5173
