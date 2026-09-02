@@ -121,7 +121,7 @@ Ikuti langkah-langkah berikut untuk melakukan setup BumilFit pada lingkungan lok
 ### 1. Clone Repository
 
 ```bash
-git clone [Sesuaikan dengan link repository GitHub] 
+git clone https://github.com/BrezaMedico/bumilfit
 ```
 ### 2. Masuk ke Folder Project
 
