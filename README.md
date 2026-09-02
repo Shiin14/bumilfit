@@ -86,11 +86,10 @@ BumilFit menyediakan layanan berlangganan premium untuk memberikan akses terhada
 
 Paket berlangganan terdiri dari:
 
-- **Paket Harian (*Daily Pass*):** Akses fitur premium dalam jangka pendek.
-- **Paket Bulanan (*Monthly Plan*):** Akses fitur premium selama satu bulan.
-- **Paket Selama Kehamilan (*Full Term Plan*):** Akses fitur premium selama masa kehamilan.
-
-> **Catatan:** Bentuk dan penempatan menu layanan berlangganan **[Sesuaikan dengan implementasi final aplikasi]**.
+- **Paket Mingguan (*Basic*):** Bebas konsultasi dengan dokter selama satu minggu.
+- **Paket Satu Bulan (*Pro*):** Bebas konsultasi dengan dokter selama satu bulan, dan dapat mengakses kalkulator Gizi.
+- **Paket Tiga Bualan (*Premium*):** Bebas konsultasi dengan dokter selama tiga bulan, akses kalkulator gizi, dan cek gizi di makanan.
+- **Paket Selama Kehamilan (*Premium Lengkap*):** Bebas konsultasi dengan dokter selama sembilan bulan, akses kalkulator gizi, dan cek gizi di makanan.
 
 ---
 
