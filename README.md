@@ -211,18 +211,18 @@ BumilFit menggunakan arsitektur aplikasi berbasis web yang terdiri dari frontend
 
 ### Alur Sistem
 
--Pengguna mengakses BumilFit melalui browser.
--React menampilkan antarmuka aplikasi.
--Pengguna melakukan pendaftaran dan memasukkan data kehamilan serta data lainnya.
--Frontend mengirimkan request ke backend melalui RESTful API.
--Express memproses request dan menjalankan logic aplikasi.
--Backend berkomunikasi dengan database Neon PostgreSQL untuk menyimpan dan mengambil data pengguna, data kehamilan, aktivitas kesehatan, serta data lainnya.
--Sistem menampilkan informasi kehamilan, Smart Health Reminder dalam bentuk To-Do List, serta catatan kesehatan kepada pengguna.
--Sistem dapat mengirimkan notifikasi pengingat melalui WhatsApp sesuai dengan pengaturan pengingat pengguna.
--Pengguna dapat melakukan konsultasi dengan dokter melalui BumilFit.
--Pengguna dapat memilih produk kesehatan seperti obat, vitamin, dan suplemen, kemudian melakukan checkout melalui BumilFit.
--Backend mengirimkan response kepada frontend.
--Frontend menampilkan hasil dan informasi yang diperlukan kepada pengguna.
+*Pengguna mengakses BumilFit melalui browser.
+*React menampilkan antarmuka aplikasi.
+*Pengguna melakukan pendaftaran dan memasukkan data kehamilan serta data lainnya.
+*Frontend mengirimkan request ke backend melalui RESTful API.
+*Express memproses request dan menjalankan logic aplikasi.
+*Backend berkomunikasi dengan database Neon PostgreSQL untuk menyimpan dan mengambil data pengguna, data kehamilan, aktivitas kesehatan, serta data lainnya.
+*Sistem menampilkan informasi kehamilan, Smart Health Reminder dalam bentuk To-Do List, serta catatan kesehatan kepada pengguna.
+*Sistem dapat mengirimkan notifikasi pengingat melalui WhatsApp sesuai dengan pengaturan pengingat pengguna.
+*Pengguna dapat melakukan konsultasi dengan dokter melalui BumilFit.
+*Pengguna dapat memilih produk kesehatan seperti obat, vitamin, dan suplemen, kemudian melakukan checkout melalui BumilFit.
+*Backend mengirimkan response kepada frontend.
+*Frontend menampilkan hasil dan informasi yang diperlukan kepada pengguna.
 
 
 ---
