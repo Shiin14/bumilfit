@@ -257,27 +257,35 @@ BumilFit menggunakan arsitektur aplikasi berbasis web yang terdiri dari frontend
 
 ```text
 BumilFit/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   ├── hooks/
-│   ├── utils/
-│   ├── App.jsx
-│   └── main.jsx
-├── server/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   └── server.js
-├── .env
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       ├── data/
+│       ├── hooks/
+│       ├── lib/
+│       ├── pages/
+│       ├── router/
+│       ├── store/
+│       ├── App.tsx
+│       └── main.tsx
+│
+├── backend/
+│   ├── prisma/
+│   └── src/
+│       ├── controllers/
+│       ├── lib/
+│       ├── middlewares/
+│       ├── routes/
+│       ├── services/
+│       ├── app.ts
+│       └── server.ts
+│
+├── .env.example
 ├── .gitignore
 ├── package.json
 └── README.md
-
-> **[Sesuaikan struktur folder di atas dengan struktur project sebenarnya]**
 ```
 ---
 
