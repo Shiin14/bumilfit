@@ -147,8 +147,14 @@ Salin template dari `frontend/.env.example` ke `frontend/.env`:
 VITE_GEMINI_API_KEY="your-gemini-api-key-here"
 ```
 
+### 5. Database Setup & Migration (Backend)
+```bash
+cd backend
+npx prisma generate
+npx prisma db push
+```
 
-### 5. Jalankan Aplikasi
+### 6. Jalankan Aplikasi
 
 npm run dev
 
