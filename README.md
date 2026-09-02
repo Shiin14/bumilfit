@@ -281,8 +281,8 @@ Project BumilFit dikembangkan oleh:
 
 Untuk informasi lebih lanjut mengenai BumilFit:
 
-- **GitHub:** `[Sesuaikan dengan username GitHub]`
-- **Email:** `[Sesuaikan dengan email tim]`
+- **GitHub:** `https://github.com/BrezaMedico`
+- **Email:** `bumilfit@gmail.com`
 - **Website:** `[Sesuaikan dengan link website]`
 
  <p align="center"> <strong>BumilFit</strong><br> Personal Pregnancy Companion for Healthy Mother & Stunting-Free Generation </p> <p align="center"> Dibuat untuk <strong>ITechnoCup 2026</strong> </p>
