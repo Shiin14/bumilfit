@@ -295,9 +295,9 @@ Project BumilFit dikembangkan oleh:
 
 | **Nama**              | **Peran**                |
 | --------------------  | ------------------------ |
-|  Breza Artha Medico   | [Sesuaikan dengan peran] |
-|  Halipah Mubarok      | [Sesuaikan dengan peran] |
-|  M. Fayyadh Al Barr H | [Sesuaikan dengan peran] |
+|  Breza Artha Medico   | Full Stack Developer     |
+|  Halipah Mubarok      | Technical Writer & UI/UX Designer |
+|  M. Fayyadh Al Barr H | System Analyst & UI/UX Designer |
 
 ---
 
