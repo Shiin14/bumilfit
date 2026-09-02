@@ -62,7 +62,7 @@ Pengembangan BumilFit dirancang untuk mendukung pencapaian target **SDGs 2030**,
 Fitur utama yang telah diimplementasikan pada BumilFit meliputi:
 
 - **Kalkulator Kehamilan & EDD:** Menampilkan informasi usia kehamilan dan Perkiraan Hari Lahir (EDD) berdasarkan data usia kehamilan yang dimasukkan pengguna saat melakukan pendaftaran.
-- **Smart Health Reminders:** Memberikan pengingat dalam bentuk **To-Do List** untuk membantu pengguna menjaga kebiasaan sehat, seperti konsumsi Tablet Tambah Darah (TTD), suplemen, hidrasi, dan olahraga ringan. Pengguna dapat menandai aktivitas yang telah dilakukan sebagai selesai.
+- **Smart Health Reminders:** Memberikan pengingat dalam bentuk **To-Do List** untuk membantu pengguna menjaga kebiasaan sehat, seperti konsumsi Tablet Tambah Darah (TTD), suplemen, hidrasi, dan olahraga ringan. Pengguna dapat menandai aktivitas yang telah dilakukan sebagai selesai. Pengingat juga dapat dikirim melalui **WhatsApp** agar pengguna mendapatkan notifikasi sesuai aktivitas yang perlu dilakukan.
 - **Pencatatan & Pemantauan Mandiri:** Memungkinkan pengguna mencatat aktivitas fisik, konsumsi air, dan kenaikan berat badan.
 
 ## Keunggulan & Pembeda Utama
