@@ -153,8 +153,7 @@ VITE_GEMINI_API_KEY="your-gemini-api-key-here"
 npm run dev
 
 Kemudian buka aplikasi melalui browser:
-http\://localhost:[Sesuaikan dengan port aplikasi]
-
+http://localhost:5173
 
 
 # 5. Alur Penggunaan BumilFit
