@@ -10,8 +10,7 @@
 ## Live Demo & Tautan Karya
 
 - **URL Web Hosting:** [Sesuaikan dengan link demo yang sudah di-hosting]
-- **Repository GitHub:** [Sesuaikan dengan link repository GitHub]
-
+- **Repository GitHub:** https://github.com/BrezaMedico/bumilfit
 ---
 
 # 1. Penjelasan Aplikasi
