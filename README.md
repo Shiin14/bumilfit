@@ -132,19 +132,21 @@ npm install
 
 ### 4. Konfigurasi Environment Variable
 
-#### Backend (backend/.env)
-Salin template dari backend/.env.example ke backend/.env:
-env
+Salin template dari `backend/.env.example` ke `backend/.env`:
+```env
 DATABASE_URL="postgresql://user:password@host:port/database?sslmode=require"
 PORT=5000
 FRONTEND_URL=http://localhost:5173
 JWT_SECRET="your-secret-key-here"
 GEMINI_API_KEY="your-gemini-api-key-here"
+```
 
-#### Frontend (frontend/.env)
-Salin template dari frontend/.env.example ke frontend/.env:
-env
+#### Frontend (`frontend/.env`)
+Salin template dari `frontend/.env.example` ke `frontend/.env`:
+```env
 VITE_GEMINI_API_KEY="your-gemini-api-key-here"
+```
+
 
 ### 5. Jalankan Aplikasi
 
