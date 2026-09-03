@@ -97,11 +97,10 @@ Paket berlangganan terdiri dari:
 
 | Kategori | Teknologi / Library / Framework | Keterangan / Fungsi |
 | :--- | :--- | :--- |
-| **Frontend Framework** | React, TypeScript, Vite, Tailwind CSS, Lucide Icons, Canvas Confetti | Membangun antarmuka dan komponen aplikasi |
-| **Styling & UI Components** | Tailwind CSS | Membuat tampilan yang responsif |
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS, Lucide Icons, Canvas Confetti | Membangun antarmuka dan komponen aplikasi |
 | **Backend & API** | Node.js, Express.js, TypeScript, Prisma ORM, JWT, BCrypt, Google Gemini API | Menangani RESTful API dan logic aplikasi |
+| **Styling & UI Components** | Tailwind CSS | Membuat tampilan yang responsif |
 | **Database** | Neon PostgreSQL | Menyimpan data log harian dan jadwal menggunakan PostgreSQL Cloud |
-| **Library Tambahan** | `[Sesuaikan dengan library yang digunakan]` | `[Sesuaikan dengan fungsi library]` |
 | **Deployment / Hosting** | Vercel / Render | Platform untuk melakukan hosting aplikasi |
 
 ---
