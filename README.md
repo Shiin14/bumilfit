@@ -95,8 +95,6 @@ Paket berlangganan terdiri dari:
 
 # 3. Teknologi, Framework, & Library yang Digunakan
 
-# 3. Teknologi, Framework, & Library yang Digunakan
-
 | Kategori | Teknologi / Library / Framework | Keterangan / Fungsi |
 | :--- | :--- | :--- |
 | **Frontend** | React, TypeScript, Vite, Tailwind CSS, Lucide Icons, Canvas Confetti | Membangun antarmuka, komponen, styling, navigasi visual, dan interaksi pengguna |
