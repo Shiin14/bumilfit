@@ -95,12 +95,16 @@ Paket berlangganan terdiri dari:
 
 # 3. Teknologi, Framework, & Library yang Digunakan
 
+# 3. Teknologi, Framework, & Library yang Digunakan
+
 | Kategori | Teknologi / Library / Framework | Keterangan / Fungsi |
 | :--- | :--- | :--- |
-| **Frontend** | React, TypeScript, Vite, Tailwind CSS, Lucide Icons, Canvas Confetti | Membangun antarmuka dan komponen aplikasi |
-| **Backend & API** | Node.js, Express.js, TypeScript, Prisma ORM, JWT, BCrypt, Google Gemini API | Menangani RESTful API dan logic aplikasi |
-| **Styling & UI Components** | Tailwind CSS | Membuat tampilan yang responsif |
-| **Database** | Neon PostgreSQL | Menyimpan data log harian dan jadwal menggunakan PostgreSQL Cloud |
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS, Lucide Icons, Canvas Confetti | Membangun antarmuka, komponen, styling, navigasi visual, dan interaksi pengguna |
+| **Backend & API** | Node.js, Express.js, TypeScript, Prisma ORM, JWT, BCrypt, Google Gemini API | Menangani RESTful API, autentikasi, pengelolaan data, serta fitur AI |
+| **Database** | Neon PostgreSQL | Menyimpan data pengguna, profil, aktivitas, pesanan, dan data aplikasi |
+| **State Management** | Zustand | Mengelola state global seperti keranjang belanja |
+| **HTTP Client** | Axios | Menghubungkan frontend dengan REST API backend |
+| **Validation** | Zod | Melakukan validasi data dan input pengguna |
 | **Deployment / Hosting** | Vercel / Render | Platform untuk melakukan hosting aplikasi |
 
 ---
