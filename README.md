@@ -125,12 +125,14 @@ git clone https://github.com/BrezaMedico/bumilfit
 ```
 ### 2. Masuk ke Folder Project
 
+```
 cd BumilFit
-
+```
 ### 3. Install Dependencies
 
+```
 npm install
-
+```
 ### 4. Konfigurasi Environment Variable
 
 Salin template dari `backend/.env.example` ke `backend/.env`:
