@@ -24,7 +24,6 @@ Berdasarkan permasalahan yang ditemukan, calon ibu dapat menghadapi beberapa ken
 1. **Rendahnya Adherensi Suplemen:** Sering lupa mengkonsumsi Tablet Tambah Darah (TTD) dan vitamin secara rutin.
 2. **Informasi Tidak Terstruktur:** Menghadapi berbagai mitos kehamilan dan informasi mengenai nutrisi yang belum tentu tepat.
 3. **Jadwal ANC Terlewat:** Pemeriksaan Antenatal Care (ANC) yang tidak dilakukan secara teratur sesuai jadwal.
-4. **Kurangnya Alat Pemantau Mandiri:** Kesulitan memantau kenaikan berat badan ibu hamil (KBB-IH) dan usia kehamilan secara praktis.
 
 Berdasarkan permasalahan tersebut, **BumilFit** dikembangkan sebagai solusi digital yang membantu ibu hamil memantau dan menjaga kebiasaan kesehatan selama masa kehamilan.
 
@@ -61,8 +60,8 @@ Pengembangan BumilFit dirancang untuk mendukung pencapaian target **SDGs 2030**,
 
 Fitur utama yang telah diimplementasikan pada BumilFit meliputi:
 
-- **Kalkulator Kehamilan & EDD:** Menampilkan informasi usia kehamilan dan Perkiraan Hari Lahir (EDD) berdasarkan data usia kehamilan yang dimasukkan pengguna saat melakukan pendaftaran.
 - **Smart Health Reminders:** Memberikan pengingat dalam bentuk **To-Do List** untuk membantu pengguna menjaga kebiasaan sehat, seperti konsumsi Tablet Tambah Darah (TTD), suplemen, hidrasi, dan olahraga ringan. Pengguna dapat menandai aktivitas yang telah dilakukan sebagai selesai. Pengingat juga dapat dikirim melalui **WhatsApp** agar pengguna mendapatkan notifikasi sesuai aktivitas yang perlu dilakukan.
+- **Kalkulator Kehamilan & EDD:** Menampilkan informasi usia kehamilan dan Perkiraan Hari Lahir (EDD) berdasarkan data usia kehamilan yang dimasukkan pengguna saat melakukan pendaftaran.
 - **Pencatatan & Pemantauan Mandiri:** Memungkinkan pengguna mencatat aktivitas fisik, konsumsi air, dan kenaikan berat badan.
 
 ## Keunggulan & Pembeda Utama
