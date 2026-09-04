@@ -183,7 +183,7 @@ Pengguna membuka halaman utama BumilFit melalui browser.
 
 ### 2. Mengisi Data Kehamilan
 
-Pada saat melakukan pendaftaran, pengguna memasukkan **usia kehamilan yang sedang dijalani dan data-data lain**. Data tersebut digunakan sebagai dasar bagi sistem untuk menampilkan informasi dan memantau perkembangan kehamilan.
+Pada saat melakukan pendaftaran, pengguna memasukkan **usia kehamilan yang sedang dijalani, riwayat penyakit, dan data lainnya**. Data tersebut kemudian digunakan oleh sistem untuk menyesuaikan pemantauan kehamilan sesuai dengan kondisi dan informasi yang diinput oleh pengguna.
 
 ### 3. Melihat Informasi Kehamilan
 
@@ -197,15 +197,11 @@ Pengguna dapat melihat pengingat dalam bentuk **To-Do List** yang berisi aktivit
 
 Pengguna dapat menerima **notifikasi pengingat melalui WhatsApp** untuk membantu mengingat aktivitas kesehatan yang perlu dilakukan, seperti konsumsi Tablet Tambah Darah (TTD), suplemen, hidrasi, dan aktivitas lainnya sesuai dengan pengaturan pengingat.
 
-### 6. Memantau Catatan Kesehatan
-
-Data yang telah dicatat dapat digunakan untuk membantu pengguna memantau perkembangan dan kebiasaan kesehatan selama masa kehamilan.
-
-### 7. Melakukan Konsultasi dengan Dokter
+### 6. Melakukan Konsultasi dengan Dokter
 
 Pengguna dapat melakukan **konsultasi langsung dengan dokter** melalui BumilFit untuk mendapatkan informasi dan arahan terkait kondisi kehamilan sesuai dengan kebutuhan pengguna.
 
-### 8. Memilih dan Checkout Produk Kesehatan
+### 7. Memilih dan Checkout Produk Kesehatan
 
 Pengguna dapat memilih berbagai produk kesehatan yang tersedia, seperti **obat, vitamin, suplemen, dan kebutuhan kesehatan lainnya**, kemudian melakukan proses **checkout** melalui BumilFit.
 
