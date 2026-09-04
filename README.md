@@ -82,14 +82,14 @@ BumilFit menerapkan konsep model bisnis berkelanjutan (*sustainable business mod
 
 ### 2. Paket Layanan Berlangganan (BumilFit Premium)
 
-BumilFit menyediakan layanan berlangganan premium untuk memberikan akses terhadap fitur-fitur tertentu, seperti pengingat otomatis melalui WhatsApp, grafik pemantauan KBB interaktif, dan ekspor laporan kesehatan dalam format PDF.
+BumilFit menyediakan layanan berlangganan premium untuk memberikan akses terhadap fitur-fitur tertentu.
 
 Paket berlangganan terdiri dari:
 
 - **Paket Mingguan (*Basic*):** Bebas konsultasi dengan dokter selama satu minggu.
 - **Paket Satu Bulan (*Pro*):** Bebas konsultasi dengan dokter selama satu bulan, dan dapat mengakses kalkulator Gizi.
 - **Paket Tiga Bualan (*Premium*):** Bebas konsultasi dengan dokter selama tiga bulan, akses kalkulator gizi, dan cek gizi di makanan.
-- **Paket Selama Kehamilan (*Premium Lengkap*):** Bebas konsultasi dengan dokter selama sembilan bulan, akses kalkulator gizi, dan cek gizi di makanan menggunakan kamera atau upload foto.
+- **Paket Selama Kehamilan (*Premium +*):** Bebas konsultasi dengan dokter selama sembilan bulan, akses kalkulator gizi, dan cek gizi di makanan menggunakan kamera atau upload foto.
 
 ---
 
