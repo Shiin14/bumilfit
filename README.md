@@ -88,7 +88,7 @@ Paket berlangganan terdiri dari:
 
 - **Paket Mingguan (*Basic*):** Bebas konsultasi dengan dokter selama satu minggu.
 - **Paket Satu Bulan (*Pro*):** Bebas konsultasi dengan dokter selama satu bulan, dan dapat mengakses kalkulator Gizi.
-- **Paket Tiga Bualan (*Premium*):** Bebas konsultasi dengan dokter selama tiga bulan, akses kalkulator gizi, dan cek gizi di makanan.
+- **Paket Tiga Bulan (*Premium*):** Bebas konsultasi dengan dokter selama tiga bulan, akses kalkulator gizi, dan cek gizi di makanan.
 - **Paket Selama Kehamilan (*Premium +*):** Bebas konsultasi dengan dokter selama sembilan bulan, akses kalkulator gizi, dan cek gizi di makanan menggunakan kamera atau upload foto.
 
 ---
