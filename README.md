@@ -62,7 +62,8 @@ Fitur utama yang telah diimplementasikan pada BumilFit meliputi:
 
 - **Smart Health Reminders:** Memberikan pengingat dalam bentuk **To-Do List** untuk membantu pengguna menjaga kebiasaan sehat, seperti konsumsi Tablet Tambah Darah (TTD), suplemen, hidrasi, dan olahraga ringan. Pengguna dapat menandai aktivitas yang telah dilakukan sebagai selesai. Pengingat juga dapat dikirim melalui **WhatsApp** agar pengguna mendapatkan notifikasi sesuai aktivitas yang perlu dilakukan.
 - **Kalkulator Kehamilan & EDD:** Menampilkan informasi usia kehamilan dan Perkiraan Hari Lahir (EDD) berdasarkan data usia kehamilan yang dimasukkan pengguna saat melakukan pendaftaran.
-- **Pencatatan & Pemantauan Mandiri:** Memungkinkan pengguna mencatat aktivitas fisik, konsumsi air, dan kenaikan berat badan.
+- **Kalkulator Gizi:** Memungkinkan pengguna untuk menghitung kebutuhan gizi harian agar anak yang dikandung dan ibu hamil tidak kekurangan gizi.
+- **Cek Gizi:** Memungkinkan pengguna untuk mengecek gizi pada makanan atau minuman yang akan dikonsumsi dengan upload foto atau scan dengan kamera.
 
 ## Keunggulan & Pembeda Utama
 
